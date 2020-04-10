@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\gameplay\FeedTheTeddies.cs">
+    <Files>
+      <File FileName="Assets\scripts\util\ConfigurationDataValueName.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\util\ConfigurationData.cs" Line="404" Column="9" />
+      <File FileName="Assets\scripts\util\ConfigurationUtils.cs" Line="23" Column="50" />
+      <File FileName="Assets\scripts\gameplay\FeedTheTeddies.cs" Line="46" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

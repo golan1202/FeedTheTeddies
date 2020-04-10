@@ -1,0 +1,66 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 930MX (ID=0x134e)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   26.20.100.7325
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\golan\OneDrive\Desktop\intermidate unity programming\lectures\Feed The Teddies\Build\FeedTheTeddies_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\golan\OneDrive\Desktop\intermidate unity programming\lectures\Feed The Teddies\Build\FeedTheTeddies_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\golan\OneDrive\Desktop\intermidate unity programming\lectures\Feed The Teddies\Build\FeedTheTeddies_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\golan\OneDrive\Desktop\intermidate unity programming\lectures\Feed The Teddies\Build\FeedTheTeddies_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\golan\OneDrive\Desktop\intermidate unity programming\lectures\Feed The Teddies\Build\FeedTheTeddies_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\golan\OneDrive\Desktop\intermidate unity programming\lectures\Feed The Teddies\Build\FeedTheTeddies_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\golan\OneDrive\Desktop\intermidate unity programming\lectures\Feed The Teddies\Build\FeedTheTeddies_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\golan\OneDrive\Desktop\intermidate unity programming\lectures\Feed The Teddies\Build\FeedTheTeddies_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\golan\OneDrive\Desktop\intermidate unity programming\lectures\Feed The Teddies\Build\FeedTheTeddies_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\golan\OneDrive\Desktop\intermidate unity programming\lectures\Feed The Teddies\Build\FeedTheTeddies_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+Platform assembly: C:\Users\golan\OneDrive\Desktop\intermidate unity programming\lectures\Feed The Teddies\Build\FeedTheTeddies_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\golan\OneDrive\Desktop\intermidate unity programming\lectures\Feed The Teddies\Build\FeedTheTeddies_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 13.734000 ms
+Platform assembly: C:\Users\golan\OneDrive\Desktop\intermidate unity programming\lectures\Feed The Teddies\Build\FeedTheTeddies_Data\Managed\System.Runtime.Serialization.dll (this message is harmless)
+Platform assembly: C:\Users\golan\OneDrive\Desktop\intermidate unity programming\lectures\Feed The Teddies\Build\FeedTheTeddies_Data\Managed\System.Xml.dll (this message is harmless)
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.056000 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 289.
+Total: 0.837100 ms (FindLiveObjects: 0.084600 ms CreateObjectMapping: 0.036100 ms MarkObjects: 0.684000 ms  DeleteObjects: 0.028000 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.491300 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 1.101500 ms (FindLiveObjects: 0.027800 ms CreateObjectMapping: 0.041900 ms MarkObjects: 0.290200 ms  DeleteObjects: 0.740400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.293000 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 1.332500 ms (FindLiveObjects: 0.019700 ms CreateObjectMapping: 0.012400 ms MarkObjects: 1.284500 ms  DeleteObjects: 0.015000 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.888000 ms
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 318.
+Total: 0.528600 ms (FindLiveObjects: 0.030000 ms CreateObjectMapping: 0.023800 ms MarkObjects: 0.383600 ms  DeleteObjects: 0.089900 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.493200 ms
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.488300 ms (FindLiveObjects: 0.060200 ms CreateObjectMapping: 0.022800 ms MarkObjects: 0.291700 ms  DeleteObjects: 0.112500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.298400 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 0.870100 ms (FindLiveObjects: 0.057200 ms CreateObjectMapping: 0.053000 ms MarkObjects: 0.715200 ms  DeleteObjects: 0.042500 ms)
+
